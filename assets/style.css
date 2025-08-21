@@ -80,8 +80,8 @@ backface-visibility: hidden;
 }
 
 footer {
-background-color: rgb(245, 97, 124);
-color: rgb(225, 0, 53);
+background-color: rgb(169, 238, 255);
+color: rgb(0, 180, 225);
 bottom:0;
 position:fixed;
 width:100%;
